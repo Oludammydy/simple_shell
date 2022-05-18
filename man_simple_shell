@@ -1,5 +1,5 @@
 "manpage for Simple_shell. Simple shell project to ALX- Holberton School.
-.TH man 1 "14 April 2021" "Simple Shell"                    "14 April 2021" "1.0"                                              "simple_shell man page"
+.TH man 1 "18 May 2022" "Simple Shell"                    "18 May 2022" "1.0"                                              "simple_shell man page"
 SH NAME
 Holberton Simple Shell
 - A simple UNIX command line interpreter.
@@ -30,7 +30,7 @@ For example:
 .I To install:
 .br
 
-.B git clone https://github.com/Fraol123/simple_shell.git
+.B git clone https://github.com/oludammydy/simple_shell.git
 br
 
 .I Compile files using:
@@ -55,4 +55,4 @@ is based on the Thompson Shell program written by Ken Thompson.
 Only one error message will print upon failure. If any further bugs are found please contact the authors.
 
 .SH AUTHORS
-written by Fraol Tolera & Andrew Mukare with contrubiton by Ermias Teshome
+written by Oluwadamilola Olaniyi & Oluchi Okeke with contrubiton by Ermias Teshome
